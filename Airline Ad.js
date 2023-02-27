@@ -348,7 +348,7 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/Airline Ad_atlas_1.png?1677504498059", id:"Airline Ad_atlas_1"}
+		{src:"images/Airline Ad_atlas_1.png?1677505713639", id:"Airline Ad_atlas_1"}
 	],
 	preloads: []
 };
